@@ -1,4 +1,5 @@
 TASK 1():
+    
     Inputs:
         IP Address
         Prefix
@@ -14,6 +15,7 @@ TASK 1():
 
 
 TASK 2():
+   
     Inputs:
         Two IP Addresses with their corresponding subnet masks
 
